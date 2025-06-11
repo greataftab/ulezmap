@@ -12,8 +12,8 @@ Check any area by entering a postcode or address
 Lightweight and mobile-friendly interface
 
 📌 Demo
-You can see the live demo on our website: <a href="https://ulezmap.com">ULEZ MAP </a>
-👉 https://ulezmap.com
+You can see the live demo on our website:👉 <a href="https://ulezmap.com">ULEZ MAP </a>
+
 
 MIT License
 
